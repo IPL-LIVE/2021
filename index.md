@@ -2,13 +2,13 @@
 <html>
 
 <head>
-  <title> Australia vs India 1st T20 </title>
+  <title> IPL Live 2021 </title>
 </head>
 
 <body>
   <center>
 
-    <h1> <b> LIVE MATCH : Australia vs India</b> </h1>
+    <h1> <b> LIVE MATCH : IPL 2021</b> </h1>
 
     <hr style="height:2px;border-width:0;color:black;background-color:black">
 
@@ -17,25 +17,25 @@
 
     <!-- IMAGE NO. 1 -->
 
-    <a href="https://t.me/INDIAVSAUSTRALIALIVEISHERE"><img width="100%" src="https://i.ibb.co/1TM94mp/free-netflix-account.png"></a>
+    <a href="https://t.me/joinchat/AAAAAFQjMpJvL8jS4RSvNA"><img width="100%" src="https://i.ibb.co/1TM94mp/free-netflix-account.png"></a>
 
     <br />
     <br />
     <br />
     <!-- IMAGE NO. 2 -->
-    <a href="https://t.me/INDIAVSAUSTRALIALIVEISHERE"> <img width="100%" src="https://i.ibb.co/3ywMKmC/IMG-20201202-140927.jpg"></a>
+    <a href="https://t.me/joinchat/AAAAAFQjMpJvL8jS4RSvNA"> <img width="100%" src="https://i.ibb.co/3ywMKmC/IMG-20201202-140927.jpg"></a>
 
     <br />
     <br />
     
-    <img width="97%" src="https://telegra.ph/file/1f9df10c7e0c672903eda.jpg">
+    <img width="97%" src="https://imbt.ga/5FlpslsHNb">
     
     <br />
     <br />
 
     <h1> <p style="font-size:60px"> LIVE MATCH : Australia vs India 1st T20 </p> </h1>
 
-<center><h1>HD Quality</h1></center>
+<center><h1>Server 1</h1></center>
 
     <!-- VIDEO HTML CODE -->
     <video width="95%" src="https://dt1q9ova10xfm.cloudfront.net/SSPORTS1H.m3u8" controls poster="https://telegra.ph/file/1f9df10c7e0c672903eda.jpg"></video>
@@ -43,15 +43,14 @@
 <center><h1>SD Quality</h1></center>
     
     <!-- VIDEO HTML CODE -->
-    <video width="95%" src="https://sonydai.akamaized.net:443/hls/live/2022316/DAI12ME/hdntl=exp=1609297323~acl=%2f*~id=52065180098695189281798258642889~data=hdntl~hmac=f6a134b4e963b5374adce5183887563ccbe34c80d1233960beaf0f12e97435e7/master_964.m3u8" controls poster="https://telegra.ph/file/1f9df10c7e0c672903eda.jpg/8f145482a70c75322037b.jpg"></video>
+    <video width="95%" src="https://dt1q9ova10xfm.cloudfront.net/SSPORTS1H.m3u8" controls poster="https://imbt.ga/5FlpslsHNb"></video>
     
     <br />
     <br />
     <br />
-<center><h1>English Auto Quality Server</h1></center>
     
     <!-- VIDEO HTML CODE -->
-    <video width="95%" src="https://cnmintalive-a.akamaihd.net/8ed65e66aba64726a7c4df7cda155127/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8?hdnea=st=1609127607~exp=9007200863868598~acl=/8ed65e66aba64726a7c4df7cda155127/*/profile_0/chunklist_dvr.m3u8*~hmac=bcf151e8fa4b741426d22daeb24cbd980f233a52148f3088b4fb639fd44bf353" controls poster="https://telegra.ph/file/1f9df10c7e0c672903eda.jpg/8f145482a70c75322037b.jpg"></video>
+    <video width="95%" src="https://dt1q9ova10xfm.cloudfront.net/SSPORTS1H.m3u8" controls poster="https://imbt.ga/5FlpslsHNb"></video>
     
      <center><h1>English Alternative</h1></center>
    <iframe src="http://freestreams-live1.com/iptv2/foxcricket.php" width="100%" height="580" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
@@ -62,19 +61,19 @@
     
     
     <!-- IMAGE NO. 5 -->
-    <a href="https://t.me/INDIAVSAUSTRALIALIVEISHERE"> <img width="100%" src="https://i.ibb.co/fnf49sX/IMG-20201202-140940.jpg"></a>
+    <a href="https://t.me/joinchat/AAAAAFQjMpJvL8jS4RSvNA"> <img width="100%" src="https://i.ibb.co/fnf49sX/IMG-20201202-140940.jpg"></a>
 
     <br />
     <br />
     <br />
 
     <!-- IMAGE NO. 6 -->
-    <a href="https://t.me/INDIAVSAUSTRALIALIVEISHERE"><img width="100%" src="https://i.ibb.co/1s7FGdF/Pics-Art-12-02-06-34-52.jpg"></a>
+    <a href="https://t.me/joinchat/AAAAAFQjMpJvL8jS4RSvNA"><img width="100%" src="https://i.ibb.co/1s7FGdF/Pics-Art-12-02-06-34-52.jpg"></a>
 
     <hr style="height:2px; weight:0;color:red;black;background-color: black;" />
 
     <!-- TELEGRAM LINK 🖇️ -->
-    <a href="https://t.me/INDIAVSAUSTRALIALIVEISHERE"><img width="40%" src="https://i.ibb.co/kDZpwgh/join-our-telegram-channel-768x181.png"></a>
+    <a href="https://t.me/joinchat/AAAAAFQjMpJvL8jS4RSvNA"><img width="40%" src="https://i.ibb.co/kDZpwgh/join-our-telegram-channel-768x181.png"></a>
 
     <hr style="height:2px; weight:0;color:red;black;background-color: black;">
 
